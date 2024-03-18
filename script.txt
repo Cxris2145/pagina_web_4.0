@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pagina_Web</title>
+
+  <style>
+
+
+    c[href="https://www.youtube.com/watch?v=DxCYCEHaoiw"] {
+      color: red; /* Cambiar el color del título a rojo */
+    }
+
+    c[href="https://www.youtube.com/watch?v=_fvNuap9l-Y"] {
+      color:chocolate; /* Cambiar el color del título a verde */
+    }
+
+  </style>
+</head>
+<body>
+    <h1 style="font-size:70px"> Pagina Web</h1>
+
+    <ul>
+      <li Style="font-size:30px"><a href = "https://www.youtube.com/watch?v=DxCYCEHaoiw">Gato 1</></li>
+        <table>
+          <tr>
+            <td>
+              <img width="200" src="https://i.kym-cdn.com/photos/images/newsfeed/002/738/959/060.gif" alt="">
+            </td>
+          </tr>
+      </table>
+
+      <li Style="font-size:30px"><a href = "https://www.youtube.com/watch?v=_fvNuap9l-Y">Gato 2</a></li>
+      <table>
+        <tr>
+          <td>
+            <img width="250" src="https://i.kym-cdn.com/entries/icons/facebook/000/047/940/cat_eating_looking_up.jpg" alt="">
+          </td>
+        </tr>
+    </table>
+    </ul>
+  
+</body>
+</html>
